@@ -1,0 +1,128 @@
+﻿route_id,direction_id,stop_order,subline_num,route_pattern_name,from_stop_id,from_station_id,from_stop_name,to_stop_id,to_station_id,to_stop_name,from_to_meters,cumulative_meters,from_to_miles,cumulative_miles,total_miles,ObjectId
+Blue,0,0,0,Wonderland - Bowdoin,70059,place-wondl,Wonderland,70057,place-rbmnl,Revere Beach,648.07954,648.07954,0.402697956,0.402697956,5.949268349,1
+Blue,0,1,0,Wonderland - Bowdoin,70057,place-rbmnl,Revere Beach,70055,place-bmmnl,Beachmont,1198.237979,1846.317519,0.744550562,1.147248518,5.949268349,2
+Blue,0,2,0,Wonderland - Bowdoin,70055,place-bmmnl,Beachmont,70053,place-sdmnl,Suffolk Downs,849.599507,2695.917026,0.527916659,1.675165177,5.949268349,3
+Blue,0,3,0,Wonderland - Bowdoin,70053,place-sdmnl,Suffolk Downs,70051,place-orhte,Orient Heights,745.434098,3441.351124,0.463191274,2.138356451,5.949268349,4
+Blue,0,4,0,Wonderland - Bowdoin,70051,place-orhte,Orient Heights,70049,place-wimnl,Wood Island,1742.139558,5183.490682,1.082515334,3.220871785,5.949268349,5
+Blue,0,5,0,Wonderland - Bowdoin,70049,place-wimnl,Wood Island,70047,place-aport,Airport,882.258242,6065.748924,0.548209856,3.769081641,5.949268349,6
+Blue,0,6,0,Wonderland - Bowdoin,70047,place-aport,Airport,70045,place-mvbcl,Maverick,1011.410313,7077.159237,0.628461232,4.397542873,5.949268349,7
+Blue,0,7,0,Wonderland - Bowdoin,70045,place-mvbcl,Maverick,70043,place-aqucl,Aquarium,1527.173332,8604.332569,0.948941514,5.346484387,5.949268349,8
+Blue,0,8,0,Wonderland - Bowdoin,70043,place-aqucl,Aquarium,70041,place-state,State,502.557083,9106.889652,0.312274494,5.658758881,5.949268349,9
+Blue,0,9,0,Wonderland - Bowdoin,70041,place-state,State,70039,place-gover,Government Center,199.673364,9306.563016,0.124071276,5.782830157,5.949268349,10
+Blue,0,10,0,Wonderland - Bowdoin,70039,place-gover,Government Center,70838,place-bomnl,Bowdoin,282.865476,9589.428492,0.175764458,5.958594615,5.949268349,11
+Green,0,15,1,Government Center - Boston College,71151,place-kencl,Kenmore,70149,place-bland,Blandford Street,420.051315,3952.090884,0.261007786,2.455715424,6.43163209,29
+Green,0,16,1,Government Center - Boston College,70149,place-bland,Blandford Street,70147,place-buest,Boston University East,370.828826,4322.91971,0.23042235,2.686137774,6.43163209,30
+Green,0,17,1,Government Center - Boston College,70147,place-buest,Boston University East,70145,place-bucen,Boston University Central,233.499316,4556.419026,0.145089748,2.831227523,6.43163209,31
+Green,0,18,1,Government Center - Boston College,70145,place-bucen,Boston University Central,170141,place-amory,Amory Street,632.336009,5188.755035,0.39291538,3.224142902,6.43163209,32
+Green,0,19,1,Government Center - Boston College,170141,place-amory,Amory Street,170137,place-babck,Babcock Street,436.610896,5625.365931,0.271297433,3.495440335,6.43163209,33
+Green,0,20,1,Government Center - Boston College,170137,place-babck,Babcock Street,70135,place-brico,Packard's Corner,454.39391,6079.759841,0.282347286,3.777787621,6.43163209,34
+Green,0,21,1,Government Center - Boston College,70135,place-brico,Packard's Corner,70131,place-harvd,Harvard Avenue,469.896717,6549.656558,0.291980283,4.069767904,6.43163209,35
+Green,0,22,1,Government Center - Boston College,70131,place-harvd,Harvard Avenue,70129,place-grigg,Griggs Street,348.280217,6897.936775,0.216411294,4.286179198,6.43163209,36
+Green,0,23,1,Government Center - Boston College,70129,place-grigg,Griggs Street,70127,place-alsgr,Allston Street,283.456688,7181.393463,0.17613182,4.462311018,6.43163209,37
+Green,0,24,1,Government Center - Boston College,70127,place-alsgr,Allston Street,70125,place-wrnst,Warren Street,228.705736,7410.099199,0.142111156,4.604422174,6.43163209,38
+Green,0,25,1,Government Center - Boston College,70125,place-wrnst,Warren Street,70121,place-wascm,Washington Street,586.605474,7996.704673,0.364499743,4.968921917,6.43163209,39
+Green,0,26,1,Government Center - Boston College,70121,place-wascm,Washington Street,70117,place-sthld,Sutherland Road,445.80558,8442.510253,0.277010745,5.245932661,6.43163209,40
+Green,0,27,1,Government Center - Boston College,70117,place-sthld,Sutherland Road,70115,place-chswk,Chiswick Road,401.597413,8844.107666,0.249541063,5.495473725,6.43163209,41
+Green,0,28,1,Government Center - Boston College,70115,place-chswk,Chiswick Road,70113,place-chill,Chestnut Hill Avenue,296.521907,9140.629573,0.184250171,5.679723896,6.43163209,42
+Green,0,29,1,Government Center - Boston College,70113,place-chill,Chestnut Hill Avenue,70111,place-sougr,South Street,430.306436,9570.936009,0.267380023,5.947103919,6.43163209,43
+Green,0,30,1,Government Center - Boston College,70111,place-sougr,South Street,70107,place-lake,Boston College,752.513193,10323.4492,0.46759002,6.414693939,6.43163209,44
+Green,0,15,0,Government Center - Cleveland Circle,70151,place-kencl,Kenmore,70211,place-smary,Saint Mary's Street,1090.560759,4623.181456,0.677643039,2.872711773,14.42749266,73
+Green,0,16,0,Government Center - Cleveland Circle,70211,place-smary,Saint Mary's Street,70213,place-hwsst,Hawes Street,357.89084,4981.072296,0.222383058,3.095094831,14.42749266,74
+Green,0,17,0,Government Center - Cleveland Circle,70213,place-hwsst,Hawes Street,70215,place-kntst,Kent Street,205.342319,5186.414615,0.127593802,3.222688633,14.42749266,75
+Green,0,18,0,Government Center - Cleveland Circle,70215,place-kntst,Kent Street,70217,place-stpul,Saint Paul Street,248.720014,5435.134629,0.154547452,3.377236084,14.42749266,76
+Green,0,19,0,Government Center - Cleveland Circle,70217,place-stpul,Saint Paul Street,70219,place-cool,Coolidge Corner,351.553487,5786.688116,0.218445209,3.595681294,14.42749266,77
+Green,0,20,0,Government Center - Cleveland Circle,70219,place-cool,Coolidge Corner,70223,place-sumav,Summit Avenue,409.318777,6196.006893,0.254338896,3.85002019,14.42749266,78
+Green,0,21,0,Government Center - Cleveland Circle,70223,place-sumav,Summit Avenue,70225,place-bndhl,Brandon Hall,291.087031,6487.093924,0.180873095,4.030893286,14.42749266,79
+Green,0,22,0,Government Center - Cleveland Circle,70225,place-bndhl,Brandon Hall,70227,place-fbkst,Fairbanks Street,200.619823,6687.713747,0.124659379,4.155552664,14.42749266,80
+Green,0,23,0,Government Center - Cleveland Circle,70227,place-fbkst,Fairbanks Street,70229,place-bcnwa,Washington Square,323.032691,7010.746438,0.200723208,4.356275873,14.42749266,81
+Green,0,24,0,Government Center - Cleveland Circle,70229,place-bcnwa,Washington Square,70231,place-tapst,Tappan Street,315.892208,7326.638646,0.196286318,4.552562191,14.42749266,82
+Green,0,25,0,Government Center - Cleveland Circle,70231,place-tapst,Tappan Street,70233,place-denrd,Dean Road,276.658548,7603.297194,0.171907652,4.724469842,14.42749266,83
+Green,0,26,0,Government Center - Cleveland Circle,70233,place-denrd,Dean Road,70235,place-engav,Englewood Avenue,351.797935,7955.095129,0.218597102,4.943066945,14.42749266,84
+Green,0,27,0,Government Center - Cleveland Circle,70235,place-engav,Englewood Avenue,70237,place-clmnl,Cleveland Circle,287.016998,8242.112127,0.178344094,5.121411039,14.42749266,85
+Green,0,4,-1,Union Square - Riverside,70504,place-unsqu,Union Square,70502,place-lech,Lechmere,1714.152812,1714.152812,1.065125176,1.065125176,14.42749266,105
+Green,0,13,2,Union Square - Riverside,70155,place-coecl,Copley,70153,place-hymnl,Hynes Convention Center,913.927653,6915.196815,0.567888315,4.296904089,14.42749266,114
+Green,0,14,2,Union Square - Riverside,70153,place-hymnl,Hynes Convention Center,70151,place-kencl,Kenmore,644.776666,7559.973481,0.400645646,4.697549735,14.42749266,115
+Green,0,15,2,Union Square - Riverside,70151,place-kencl,Kenmore,70187,place-fenwy,Fenway,968.933563,8528.907044,0.602067403,5.299617138,14.42749266,116
+Green,0,16,-1,Union Square - Riverside,70187,place-fenwy,Fenway,70183,place-longw,Longwood,573.203565,9102.110609,0.356172183,5.655789321,14.42749266,117
+Green,0,17,-1,Union Square - Riverside,70183,place-longw,Longwood,70181,place-bvmnl,Brookline Village,1188.207124,10290.31773,0.738317677,6.394106998,14.42749266,118
+Green,0,18,-1,Union Square - Riverside,70181,place-bvmnl,Brookline Village,70179,place-brkhl,Brookline Hills,857.623038,11147.94077,0.53290225,6.927009248,14.42749266,120
+Green,0,19,-1,Union Square - Riverside,70179,place-brkhl,Brookline Hills,70177,place-bcnfd,Beaconsfield,1283.472037,12431.41281,0.79751255,7.724521798,14.42749266,121
+Green,0,20,-1,Union Square - Riverside,70177,place-bcnfd,Beaconsfield,70175,place-rsmnl,Reservoir,642.381558,13073.79437,0.399157395,8.123679192,14.42749266,122
+Green,0,21,-1,Union Square - Riverside,70175,place-rsmnl,Reservoir,70173,place-chhil,Chestnut Hill,1642.992669,14716.78704,1.020908314,9.144587506,14.42749266,123
+Green,0,22,-1,Union Square - Riverside,70173,place-chhil,Chestnut Hill,70171,place-newto,Newton Centre,2364.370184,17081.15722,1.46915152,10.61373903,14.42749266,124
+Green,0,23,-1,Union Square - Riverside,70171,place-newto,Newton Centre,70169,place-newtn,Newton Highlands,1302.945299,18384.10252,0.809612674,11.4233517,14.42749266,125
+Green,0,24,-1,Union Square - Riverside,70169,place-newtn,Newton Highlands,70167,place-eliot,Eliot,1243.031598,19627.13412,0.772384026,12.19573573,14.42749266,126
+Green,0,25,-1,Union Square - Riverside,70167,place-eliot,Eliot,70165,place-waban,Waban,1363.660029,20990.79415,0.847339058,13.04307478,14.42749266,127
+Green,0,26,-1,Union Square - Riverside,70165,place-waban,Waban,70163,place-woodl,Woodland,1330.448725,22321.24287,0.82670251,13.86977729,14.42749266,128
+Green,0,27,-1,Union Square - Riverside,70163,place-woodl,Woodland,70161,place-river,Riverside,849.547837,23170.79071,0.527884552,14.39766185,14.42749266,129
+Green,0,0,0,Medford/Tufts - Heath Street,70512,place-mdftf,Medford/Tufts,70510,place-balsq,Ball Square,960.283868,960.283868,0.596692732,0.596692732,8.577628845,154
+Green,0,1,0,Medford/Tufts - Heath Street,70510,place-balsq,Ball Square,70508,place-mgngl,Magoun Square,768.378024,1728.661892,0.477447969,1.074140701,8.577628845,155
+Green,0,2,0,Medford/Tufts - Heath Street,70508,place-mgngl,Magoun Square,70506,place-gilmn,Gilman Square,1094.773878,2823.43577,0.68026095,1.754401651,8.577628845,156
+Green,0,3,0,Medford/Tufts - Heath Street,70506,place-gilmn,Gilman Square,70514,place-esomr,East Somerville,1235.641449,4059.077219,0.767792,2.522193651,8.577628845,157
+Green,0,4,0,Medford/Tufts - Heath Street,70514,place-esomr,East Somerville,70502,place-lech,Lechmere,1350.522505,5409.599724,0.839175779,3.36136943,8.577628845,158
+Green,0,5,0,Medford/Tufts - Heath Street,70502,place-lech,Lechmere,70208,place-spmnl,Science Park/West End,830.601825,6240.201549,0.516112046,3.877481476,8.577628845,159
+Green,0,6,0,Medford/Tufts - Heath Street,70208,place-spmnl,Science Park/West End,70206,place-north,North Station,654.735789,6894.937338,0.406833958,4.284315434,8.577628845,160
+Orange,0,0,0,Oak Grove - Forest Hills,70036,place-ogmnl,Oak Grove,70034,place-mlmnl,Malden Center,1182.25807,1182.25807,0.734621106,0.734621106,11.02917762,162
+Orange,0,1,0,Oak Grove - Forest Hills,70034,place-mlmnl,Malden Center,70032,place-welln,Wellington,2821.695185,4003.953255,1.753320101,2.487941208,11.02917762,163
+Orange,0,2,0,Oak Grove - Forest Hills,70032,place-welln,Wellington,70278,place-astao,Assembly,1018.712674,5022.665929,0.632998709,3.120939917,11.02917762,164
+Orange,0,3,0,Oak Grove - Forest Hills,70278,place-astao,Assembly,70030,place-sull,Sullivan Square,929.428723,5952.094652,0.577520234,3.69846015,11.02917762,165
+Orange,0,4,0,Oak Grove - Forest Hills,70030,place-sull,Sullivan Square,70028,place-ccmnl,Community College,1396.58891,7348.683562,0.867800116,4.566260266,11.02917762,166
+Orange,0,5,0,Oak Grove - Forest Hills,70028,place-ccmnl,Community College,70026,place-north,North Station,1137.504566,8486.188128,0.706812568,5.273072835,11.02917762,167
+Orange,0,6,0,Oak Grove - Forest Hills,70026,place-north,North Station,70024,place-haecl,Haymarket,379.984834,8866.172962,0.236111629,5.509184464,11.02917762,168
+Orange,0,7,0,Oak Grove - Forest Hills,70024,place-haecl,Haymarket,70022,place-state,State,461.060589,9327.233551,0.286489768,5.795674232,11.02917762,169
+Orange,0,8,0,Oak Grove - Forest Hills,70022,place-state,State,70020,place-dwnxg,Downtown Crossing,453.474441,9780.707992,0.281775954,6.077450186,11.02917762,170
+Orange,0,9,0,Oak Grove - Forest Hills,70020,place-dwnxg,Downtown Crossing,70018,place-chncl,Chinatown,395.544613,10176.25261,0.245780028,6.323230214,11.02917762,171
+Orange,0,10,0,Oak Grove - Forest Hills,70018,place-chncl,Chinatown,70016,place-tumnl,Tufts Medical Center,348.245275,10524.49788,0.216389582,6.539619795,11.02917762,172
+Orange,0,11,0,Oak Grove - Forest Hills,70016,place-tumnl,Tufts Medical Center,70014,place-bbsta,Back Bay,1081.461063,11605.95894,0.67198875,7.211608545,11.02917762,173
+Orange,0,12,0,Oak Grove - Forest Hills,70014,place-bbsta,Back Bay,70012,place-masta,Massachusetts Avenue,1003.029924,12608.98887,0.6232539,7.834862445,11.02917762,174
+Orange,0,13,0,Oak Grove - Forest Hills,70012,place-masta,Massachusetts Avenue,70010,place-rugg,Ruggles,669.28819,13278.27706,0.415876401,8.250738846,11.02917762,175
+Orange,0,14,0,Oak Grove - Forest Hills,70010,place-rugg,Ruggles,70008,place-rcmnl,Roxbury Crossing,835.416798,14113.69386,0.519103932,8.769842778,11.02917762,176
+Orange,0,15,0,Oak Grove - Forest Hills,70008,place-rcmnl,Roxbury Crossing,70006,place-jaksn,Jackson Square,885.079875,14998.77373,0.549963137,9.319805915,11.02917762,177
+Orange,0,16,0,Oak Grove - Forest Hills,70006,place-jaksn,Jackson Square,70004,place-sbmnl,Stony Brook,775.906821,15774.68055,0.482126146,9.801932061,11.02917762,178
+Orange,0,17,0,Oak Grove - Forest Hills,70004,place-sbmnl,Stony Brook,70002,place-grnst,Green Street,865.563728,16640.24428,0.537836366,10.33976843,11.02917762,179
+Orange,0,18,0,Oak Grove - Forest Hills,70002,place-grnst,Green Street,70001,place-forhl,Forest Hills,1109.497653,17749.74193,0.689409879,11.02917831,11.02917762,180
+Red,0,0,0,Alewife - Ashmont,70061,place-alfcl,Alewife,70063,place-davis,Davis,1595.523052,1595.523052,0.991412061,0.991412061,17.62582455,200
+Red,0,1,0,Alewife - Ashmont,70063,place-davis,Davis,70065,place-portr,Porter,1027.370006,2622.893058,0.638378125,1.629790187,17.62582455,201
+Red,0,2,0,Alewife - Ashmont,70065,place-portr,Porter,70067,place-harsq,Harvard,1715.034715,4337.927773,1.065673166,2.695463352,17.62582455,202
+Red,0,3,0,Alewife - Ashmont,70067,place-harsq,Harvard,70069,place-cntsq,Central,1563.837695,5901.765468,0.971723693,3.667187045,17.62582455,203
+Red,0,4,0,Alewife - Ashmont,70069,place-cntsq,Central,70071,place-knncl,Kendall/MIT,1557.302746,7459.068214,0.967663064,4.634850109,17.62582455,204
+Red,0,5,0,Alewife - Ashmont,70071,place-knncl,Kendall/MIT,70073,place-chmnl,Charles/MGH,1169.228072,8628.296286,0.726524641,5.36137475,17.62582455,205
+Red,0,6,0,Alewife - Ashmont,70073,place-chmnl,Charles/MGH,70075,place-pktrm,Park Street,939.877604,9568.17389,0.584012867,5.945387618,17.62582455,206
+Red,0,7,0,Alewife - Ashmont,70075,place-pktrm,Park Street,70077,place-dwnxg,Downtown Crossing,204.70619,9772.88008,0.127198529,6.072586147,17.62582455,207
+Red,0,8,0,Alewife - Ashmont,70077,place-dwnxg,Downtown Crossing,70079,place-sstat,South Station,540.04725,10312.92733,0.335569804,6.40815595,17.62582455,208
+Red,0,9,0,Alewife - Ashmont,70079,place-sstat,South Station,70081,place-brdwy,Broadway,1328.310627,11641.23796,0.825373958,7.233529908,17.62582455,209
+Red,0,10,0,Alewife - Ashmont,70081,place-brdwy,Broadway,70083,place-andrw,Andrew,1383.988484,13025.22644,0.859970574,8.093500483,17.62582455,210
+Red,0,11,0,Alewife - Ashmont,70083,place-andrw,Andrew,70085,place-jfk,JFK/UMass,1228.353275,14253.57972,0.763263339,8.856763822,17.62582455,211
+Red,0,12,0,Alewife - Ashmont,70085,place-jfk,JFK/UMass,70087,place-shmnl,Savin Hill,1135.295127,15388.87484,0.705439687,9.562203508,17.62582455,212
+Red,0,13,-1,Alewife - Ashmont,70087,place-shmnl,Savin Hill,70089,place-fldcr,Fields Corner,1602.327403,16991.20225,0.995640089,10.5578436,17.62582455,213
+Red,0,14,-1,Alewife - Ashmont,70089,place-fldcr,Fields Corner,70091,place-smmnl,Shawmut,942.830172,17934.03242,0.585847508,11.14369111,17.62582455,214
+Red,0,15,-1,Alewife - Ashmont,70091,place-smmnl,Shawmut,70093,place-asmnl,Ashmont,972.921294,18906.95371,0.604545264,11.74823637,17.62582455,215
+Red,0,12,0,Alewife - Braintree,70095,place-jfk,JFK/UMass,70097,place-nqncy,North Quincy,5703.767642,19993.50462,3.5441569,12.4233878,17.62582455,244
+Red,0,13,1,Alewife - Braintree,70097,place-nqncy,North Quincy,70099,place-wlsta,Wollaston,1278.836769,21272.34139,0.794632328,13.21802013,17.62582455,245
+Red,0,14,1,Alewife - Braintree,70099,place-wlsta,Wollaston,70101,place-qnctr,Quincy Center,2083.897226,23356.23862,1.294873704,14.51289383,17.62582455,246
+Red,0,15,1,Alewife - Braintree,70101,place-qnctr,Quincy Center,70103,place-qamnl,Quincy Adams,2108.399076,25464.63769,1.310098448,15.82299228,17.62582455,247
+Red,0,16,1,Alewife - Braintree,70103,place-qamnl,Quincy Adams,70105,place-brntn,Braintree,2901.377442,28366.01513,1.80283236,17.62582464,17.62582455,248
+Green,0,7,0,Medford/Tufts - Heath Street,70206,place-north,North Station,70204,place-haecl,Haymarket,377.611301,7272.548639,0.234636784,4.518952218,8.577628845,266
+Green,0,8,0,Medford/Tufts - Heath Street,70204,place-haecl,Haymarket,70202,place-gover,Government Center,408.474636,7681.023275,0.253814372,4.77276659,8.577628845,267
+Green,0,9,0,Medford/Tufts - Heath Street,70202,place-gover,Government Center,70199,place-pktrm,Park Street,457.004197,8138.027472,0.283969243,5.056735833,8.577628845,268
+Green,0,10,0,Medford/Tufts - Heath Street,70199,place-pktrm,Park Street,70159,place-boyls,Boylston,394.981945,8533.009417,0.245430402,5.302166235,8.577628845,269
+Green,0,11,0,Medford/Tufts - Heath Street,70159,place-boyls,Boylston,70157,place-armnl,Arlington,594.466154,9127.475571,0.369384143,5.671550378,8.577628845,270
+Green,0,12,0,Medford/Tufts - Heath Street,70157,place-armnl,Arlington,70155,place-coecl,Copley,569.240503,9696.716074,0.35370965,6.025260028,8.577628845,271
+Green,0,13,0,Medford/Tufts - Heath Street,70155,place-coecl,Copley,70239,place-prmnl,Prudential,685.811473,10382.52755,0.426143493,6.45140352,8.577628845,272
+Green,0,14,-2,Medford/Tufts - Heath Street,70239,place-prmnl,Prudential,70241,place-symcl,Symphony,422.700394,10805.22794,0.262653848,6.714057368,8.577628845,273
+Green,0,15,-2,Medford/Tufts - Heath Street,70241,place-symcl,Symphony,70243,place-nuniv,Northeastern University,535.362739,11340.59068,0.332658983,7.046716352,8.577628845,274
+Green,0,16,-2,Medford/Tufts - Heath Street,70243,place-nuniv,Northeastern University,70245,place-mfa,Museum of Fine Arts,471.914187,11812.50487,0.293233881,7.339950233,8.577628845,275
+Green,0,17,-2,Medford/Tufts - Heath Street,70245,place-mfa,Museum of Fine Arts,70247,place-lngmd,Longwood Medical Area,430.963339,12243.46821,0.267788204,7.607738436,8.577628845,276
+Green,0,18,-2,Medford/Tufts - Heath Street,70247,place-lngmd,Longwood Medical Area,70249,place-brmnl,Brigham Circle,426.320819,12669.78903,0.264903476,7.872641912,8.577628845,277
+Green,0,19,-2,Medford/Tufts - Heath Street,70249,place-brmnl,Brigham Circle,70251,place-fenwd,Fenwood Road,120.939197,12790.72822,0.075148133,7.947790045,8.577628845,278
+Green,0,20,-2,Medford/Tufts - Heath Street,70251,place-fenwd,Fenwood Road,70253,place-mispk,Mission Park,310.167507,13100.89573,0.192729154,8.140519199,8.577628845,279
+Green,0,21,-2,Medford/Tufts - Heath Street,70253,place-mispk,Mission Park,70255,place-rvrwy,Riverway,330.45603,13431.35176,0.205335857,8.345855056,8.577628845,280
+Green,0,22,-2,Medford/Tufts - Heath Street,70255,place-rvrwy,Riverway,70257,place-bckhl,Back of the Hill,235.353259,13666.70502,0.146241735,8.492096791,8.577628845,281
+Green,0,23,-2,Medford/Tufts - Heath Street,70257,place-bckhl,Back of the Hill,70260,place-hsmnl,Heath Street,142.325514,13809.03053,0.088436974,8.580533765,8.577628845,282
+Mattapan,0,0,0,Ashmont - Mattapan,70261,place-asmnl,Ashmont,70263,place-cedgr,Cedar Grove,523.028862,523.028862,0.324995068,0.324995068,2.507342637,307
+Mattapan,0,1,0,Ashmont - Mattapan,70263,place-cedgr,Cedar Grove,70265,place-butlr,Butler,937.944689,1460.973551,0.58281181,0.907806877,2.507342637,308
+Mattapan,0,2,0,Ashmont - Mattapan,70265,place-butlr,Butler,70267,place-miltt,Milton,467.485859,1928.45941,0.290482246,1.198289123,2.507342637,309
+Mattapan,0,3,0,Ashmont - Mattapan,70267,place-miltt,Milton,70269,place-cenav,Central Avenue,518.762931,2447.222341,0.322344341,1.520633464,2.507342637,310
+Mattapan,0,4,0,Ashmont - Mattapan,70269,place-cenav,Central Avenue,70271,place-valrd,Valley Road,684.335538,3131.557879,0.425226389,1.945859853,2.507342637,311
+Mattapan,0,5,0,Ashmont - Mattapan,70271,place-valrd,Valley Road,70273,place-capst,Capen Street,488.069051,3619.62693,0.303272048,2.249131901,2.507342637,312
+Mattapan,0,6,0,Ashmont - Mattapan,70273,place-capst,Capen Street,70275,place-matt,Mattapan,415.549898,4035.176828,0.258210736,2.507342637,2.507342637,313
